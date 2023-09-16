@@ -1,0 +1,60 @@
+main, h1{ padding: 1em;
+color:orangered;
+}
+
+html{
+  background-color: lightgray;
+}
+
+img{
+  height: 75%;
+  width: auto;
+  border-radius: 30px;
+  text-decoration: none;
+}
+
+main p{
+  background-color: gainsboro;
+  color:rgb(253, 123, 1);
+  font-size: 20px;
+}
+
+main li{
+  border: thin solid black;
+  padding: 1em;
+  background-color: gainsboro;
+  box-shadow: 10px 5px 5px rgb(48, 47, 47);
+  text-decoration:none;
+}
+
+footer{
+  border: thin solid black;
+}
+
+footer p {
+  color:rgb(253, 123, 1);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  font-size:25px ;
+}
+
+footer p{
+  font-size:20px;
+}
+
+html {
+  transform: scale(0.65);
+  transform-origin:top center;
+}
+
+body {
+  max-width: 1200px;
+  margin:0 auto;
+  flex-basis:30%;
+}
+
